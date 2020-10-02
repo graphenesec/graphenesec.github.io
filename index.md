@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Serif Theme
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+title: Graphene Security
+description: Graphene Security is an independent, ethical cyber security consultancy based in Melbourne, Australia.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Premium consulting with an ethical focus.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Graphene Security is an independent, ethically-focused cyber security consultancy based in Melbourne, Australia.
