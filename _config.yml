@@ -8,15 +8,15 @@ homepage:
   show_call_box: true
 logo:
   mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.png"
-  desktop_height: "36px"
+  desktop: "images/logo/gs_logo.png"
+  desktop_height: "48px"
 footer:
-  copyright_text: 'Copyright Graphene Security 2020. Built with Jekyll.'
+  copyright_text: 'Copyright Graphene Security 2020.'
 
 seo:
   meta_og_title: "Graphene Security"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://graphenesecurity.com.au"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
   meta_twitter_card: "summary"
