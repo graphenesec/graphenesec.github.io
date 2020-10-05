@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Ethical",
+    "description": "Built from the ground up as an ethical organisation.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Bespoke",
+    "description": "Tailored cyber security solutions for your specific needs.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Premium",
+    "description": "Uncompromised quality based on a tier-one consulting background.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
