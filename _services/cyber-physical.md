@@ -1,6 +1,6 @@
 ---
-title: "Business Advisory"
-date: 2018-11-28T15:14:39+10:00
+title: "Cyber-Physical Alignment"
+date: 2020-06-10T15:14:39+11:00
 featured: true
 weight: 2
 ---

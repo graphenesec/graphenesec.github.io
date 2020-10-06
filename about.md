@@ -1,6 +1,6 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: 'About Us'
+date: 2020-06-10T17:01:34+11:00
 layout: 'page'
 ---
 

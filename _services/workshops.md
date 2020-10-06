@@ -1,6 +1,6 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: "Workshop Facilitation"
+date: 2020-06-10T15:15:34+11:00
 featured: true
 weight: 4
 ---
