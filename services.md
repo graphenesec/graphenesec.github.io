@@ -6,6 +6,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services to help you grow with confidence
+# Premium services with an ethical focus
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our services are designed to help clients understand and manage their security risks with confidence.
+
+We take pride in our ability to explain complex issues simply, and to work with clients to develop light, strong and elegant solutions.

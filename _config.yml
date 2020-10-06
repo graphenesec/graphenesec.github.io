@@ -7,9 +7,9 @@ google_analytics_id: null
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/gs_logo.png"
-  desktop_height: "48px"
+  mobile: "images/logo/gs-logo-mobile.png"
+  desktop: "images/logo/gs-logo.png"
+  desktop_height: "60px"
 footer:
   copyright_text: 'Copyright Graphene Security 2020.'
 
