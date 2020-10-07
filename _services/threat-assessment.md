@@ -5,6 +5,8 @@ featured: true
 weight: 6
 ---
 
-A good threat assessment forms the foundation of an effective cyber security strategy.
+Tailored cyber security threat assessments based on industry-leading methodologies.
+
+Cyber security threat assessments are the foundation of an effective cyber security strategy.
 
 *This page is under construction. We look forward to sharing the final version soon.*
