@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Premium services with an ethical focus
+# Grow and thrive in an uncertain world
 
 Our services are designed to help clients understand and manage their security risks with confidence.
 

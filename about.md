@@ -8,7 +8,7 @@ We are a Melbourne-based startup founded with the objective of bringing tier-one
 
 Our company is based on the principle that the most effective security is strong and light. From this website to the systems that support our business, Graphene Security is built to be as robust and simple as possible.
 
-We are also committed to building an authentic and ethical company. We choose ethical suppliers wherever possible and will decline to work with unethical organisations or industries.
+We are also committed to building an authentic and ethical company. We choose ethical suppliers wherever possible and decline to work with organisations or industries that have a net negative impact on people or the environment.
 
 Our identity is shaped by our Mission, Personality, Promise and Values (with credit to [Atlassian](https://atlassian.design/brand) for the categories):
 
