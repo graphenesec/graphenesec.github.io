@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/gs-logo-mobile.png"
   desktop: "images/logo/gs-logo.png"
-  desktop_height: "60px"
+  desktop_height: "70px"
 footer:
   copyright_text: 'Copyright Graphene Security 2020.'
 
