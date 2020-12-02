@@ -41,6 +41,14 @@ defaults:
       path: 'images'
     values:
       image: true
+  - scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /blog/:categories/:title/
+  
 
 sass:
   style: compact # possible values: nested expanded compact compressed

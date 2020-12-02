@@ -11,9 +11,12 @@ main:
   - name: "Values"
     url: "/values/"
     weight: 5   
+  - name: "Blog"
+    url: "/blog/"
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Home"
