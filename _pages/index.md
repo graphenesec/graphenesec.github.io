@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Graphene Security
+permalink: /
 description: Graphene Security is an independent, ethical cyber security consultancy based in Melbourne, Australia.
 intro_image: "images/illustrations/gs-background.webp"
 intro_image_absolute: true

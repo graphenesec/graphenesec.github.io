@@ -2,6 +2,7 @@
 title: Contact
 layout: contact
 bodyClass: page-contact
+permalink: /contact/
 ---
 
 Thank you for your interest. Please email us using the address above and we'll be happy to assist.

@@ -2,6 +2,7 @@
 title: 'Blog'
 date: 2020-02-12T17:01:34+11:00
 layout: 'page'
+permalink: /blog/
 ---
 
 Index of posts

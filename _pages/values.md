@@ -2,6 +2,7 @@
 title: 'Values'
 date: 2020-02-12T17:01:34+11:00
 layout: 'page'
+permalink: /values/
 ---
 
 We are proud to be an ethical, impact-driven cyber security consultancy with a focus on working with clients who make the world a better place.
