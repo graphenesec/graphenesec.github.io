@@ -1,5 +1,5 @@
 ---
-title: 'Blog page test'
+title: 'Placeholder blog post'
 # For SEO:
 description: This is a test page. Please ignore it :)
 keywords: [cyber security, ethical security]
@@ -9,6 +9,6 @@ category:
 layout: page
 ---
 
-# Heading 1
+# Placeholder
 
-Sample blog page content
+As the name suggests, this is just some placeholder content as we build in the new blog functionality. Please check back soon for some real posts!
