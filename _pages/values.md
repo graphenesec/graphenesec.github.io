@@ -31,7 +31,7 @@ We do this by:
 - Seeking to minimise our environmental impact by thinking critically about whether we need to make purchases, reducing waste, and otherwise participating where possible in a more circular economy.
 - Choosing suppliers and partners based on their ethical profile in addition to the quality of their product or service.
 
-We have also made the decision not to profit from organisations that engage in practives that are contrary to our values. Similar to the [Australian Ethical Charter](https://www.australianethical.com.au/personal/ethical-investing/our-approach/australian-ethical-charter/), we will avoid organisations that cause:
+We have also made the decision not to profit from organisations that engage in practices that are contrary to our values. Similar to the [Australian Ethical Charter](https://www.australianethical.com.au/personal/ethical-investing/our-approach/australian-ethical-charter/), we will avoid organisations that cause:
 
 - Harm to people (including human and labour rights violations, gambling, tobacco and predatory lending such as payday loans)
 - Harm to the environment (including environmental degradation, climate change and unsustainable agriculture)
@@ -39,6 +39,6 @@ We have also made the decision not to profit from organisations that engage in p
 
 ## We work hard to stay at the top of our game
 
-Having an ethical focus doesn't make us any less committed to providing a market-leading capability. We take satisfaction in delivering with excellence, and in providing clients with advice and solutions that are as good, if not better, than our industry colleagues - large and small.
+Having an ethically-focused identity doesn't make us any less committed to providing a market-leading capability. We take satisfaction in delivering with excellence, and in providing clients with advice and solutions that are as good, if not better, than our industry colleagues - large and small.
 
-We recognise the value of continuous development in a field where there is always more to learn and there are constant innovations on both the offensive and defensive sides. Expanding our knowledge and skills is something we enjoy, as well as an important part of our success.
+We recognise the value of continuous development in a field where there is always more to learn and there are constant innovations in offensive and defensive technologies and techniques. Expanding our knowledge and skills is something we enjoy, as well as an important part of our success.
