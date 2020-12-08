@@ -12,7 +12,7 @@ logo:
   desktop: "images/logo/gs-logo.svg"
   desktop_height: "70px"
 footer:
-  copyright_text: 'Copyright Graphene Security 2020.'
+  copyright_text: 'Copyright Graphene Security 2020. Liability limited by a scheme approved under Professional Standards Legislation.'
 
 seo:
   meta_og_title: "Graphene Security"
