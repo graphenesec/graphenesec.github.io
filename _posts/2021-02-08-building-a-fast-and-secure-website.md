@@ -17,7 +17,7 @@ _Last updated: 08 February 2021_
 
 Part of the ethos of Graphene Security, which inspired the name itself, is the value of security that is strong and light. Having worked on security for some really large organisations, I've seen first-hand how complexity creates major challenges. That's a blog for another day, but the key idea is that one of the best things you can do from a security perspective is to simplify your systems as much as possible.
 
-With that in mind, I set out to create a website that was as clean, lightweight and secure - ideally at minimal cost. After some research, and putting the question to a group of penetration tester friends who hack websites (among other things) for a living, I had a solution that sounded ideal: Build a static website using Jekyll, host it for free on GitHub Pages and then increase performance and security using Cloudflare's free-tier services.
+With that in mind, I set out to create a website that was as clean, lightweight and secure as possible - ideally at minimal cost. After some research, and putting the question to a group of penetration tester friends who hack websites (among other things) for a living, I had a solution that sounded ideal: Build a static website using Jekyll, host it for free on GitHub Pages and then increase performance and security using Cloudflare's free-tier services.
 
 If that makes absolutely no sense to you at this stage, please don’t worry. I was quite new to this as well! This post is all about sharing the lessons I learned along the way.
 
@@ -41,7 +41,7 @@ Jekyll, I found, is in many ways the opposite of Wordpress. Although using Jekyl
 
 This doesn’t mean less technical people should be deterred from embracing Jekyll and its [Jamstack](https://jamstack.org/what-is-jamstack/) relatives. Far from it. If you can get a web developer to do the initial setup for you, it's not too hard to then add and modify your own content. When you create a new piece of content, you just need to create a file in a format called [Markdown](https://www.markdownguide.org/) - which is really quite simple and intuitive to use - and then upload it to your site.
 
-Though it does involve adding some additional steps and components, there is also a [growing field of Content Management System (CMS) platforms](https://jamstack.org/headless-cms/), some of which appear to offer a user experience more comparable to Wordpress.
+Though it does involve adding some additional steps and components, there is also a [growing field of Content Management System (CMS) platforms](https://jamstack.org/headless-cms/). I didn't find a free option that suited my needs, but I can see them working well for users of a website that has already been set up.
 
  
 # More speed (and even more security)
