@@ -37,7 +37,7 @@ We have also made the decision not to profit from organisations that engage in p
 - Harm to the environment (including environmental degradation, climate change and unsustainable agriculture)
 - Harm to animals (including horse and greyhound racing, live animal export and other cruel practices)
 
-## We work hard to stay at the top of our game
+## We are passionate about security
 
 Having an ethically-focused identity doesn't make us any less committed to providing a market-leading capability. We take satisfaction in delivering with excellence, and in providing clients with advice and solutions that are as good, if not better, than our industry colleagues - large and small.
 
