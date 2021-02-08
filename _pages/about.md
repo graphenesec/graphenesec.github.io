@@ -42,4 +42,4 @@ We bring our whole selves to work and embrace diversity of thought, approach and
 
 - We take our clients' trust seriously
 - We are committed to running an ethical business
-- We work hard to stay at the top of our game
+- We are passionate about security
