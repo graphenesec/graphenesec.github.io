@@ -59,7 +59,7 @@ By following their [documentation](https://blog.cloudflare.com/secure-and-fast-g
 
 While it was a much more challenging experience than setting up a Wordpress or Wix site, I learned a lot from the process and I'm really happy with the result. The site's small data requirements make it fast and responsive, while also reducing its overall resource footprint. The technical simplicity of the site also minimises maintenance requirements and enables me to focus on other aspects of running the business. Finally, it's nice to have an online presence without any cost overheads aside from a fee for my domain name every few years.
 
-If you're creating a new website, or considering a refresh of your existing one, it's definitely worth looking into a static website. If you're running a Wordpress site or similar, it's probably also a good time to check that its various components are up to date and configured securely.
+If you're starting a new website, or considering a refresh of your existing one, it's definitely worth looking into creating a static site. If you're running a Wordpress site or similar, it's probably also a good time to check that its various components are up to date and configured securely.
 
 
 ---
@@ -68,4 +68,4 @@ _James Williams is the Founder of [Graphene Security](https://graphenesecurity.c
 
 ---
 
-_*I have to mention that Cloudflare have previously been involved in controversies where they have failed to withdraw their services from sites hosting objectionable content. Though I understand they since made changes to their policies, I would take a close look at Cloudflare's ethical record before paying for their services._
+_*I have to mention that Cloudflare have previously been involved in controversies where they have failed to withdraw their services from sites hosting objectionable content. Though I understand they have since made changes to their policies, I would take a close look at Cloudflare's ethical record before paying for their services._
