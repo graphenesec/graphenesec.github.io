@@ -11,6 +11,7 @@ logo:
   mobile: "images/logo/gs-logo-mobile.svg"
   desktop: "images/logo/gs-logo.svg"
   desktop_height: "70px"
+  mobile_height: "50px"
 footer:
   copyright_text: 'Copyright Graphene Security 2021. Liability limited by a scheme approved under Professional Standards Legislation.'
 
