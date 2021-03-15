@@ -5,18 +5,14 @@ layout: 'page'
 permalink: /values/
 ---
 
-We are proud to be an ethical, impact-driven cyber security consultancy with a focus on working with clients who make the world a better place.
-
-Our values are the foundation of how we do business.
+We are proud to be an ethical, impact-driven company; our values are the foundation of how we do business.
 
 
 ## We take our clients' trust seriously
 
 Cyber security is inherently complex, and clients often have little choice but to trust the interpretations and advice they receive.
 
-Certain organisations, including some large providers, use this complexity as a smokescreen for selling engagements and products that appear credible but fail to provide meaningful improvements to security.
-
-We wholeheartedly reject this approach.
+Certain organisations, including some large providers, use this complexity as a smokescreen for selling engagements and products that appear credible but fail to provide meaningful improvements to security. We reject this approach.
 
 We respect our clients and understand the responsibility associated with the trust they place in us as specialist advisers. We commit to providing advice in good faith, to scoping engagements fairly, and in recommending products and services based on their suitability for the client.
 
@@ -39,6 +35,6 @@ We have also made the decision not to profit from organisations that engage in p
 
 ## We are passionate about security
 
-Having an ethically-focused identity doesn't make us any less committed to providing a market-leading capability. We take satisfaction in delivering with excellence, and in providing clients with advice and solutions that are as good, if not better, than our industry colleagues - large and small.
+We take satisfaction in delivering with excellence, and in providing clients with advice and solutions that are as good, if not better, than our industry colleagues - large and small.
 
 We recognise the value of continuous development in a field where there is always more to learn and there are constant innovations in offensive and defensive technologies and techniques. Expanding our knowledge and skills is something we enjoy, as well as an important part of our success.

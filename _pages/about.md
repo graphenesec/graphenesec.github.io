@@ -5,9 +5,9 @@ layout: 'page'
 permalink: /about/
 ---
 
-We are a Melbourne-based company founded with the objective of bringing tier-one cyber security consulting capabilities to organisations that make the world a better place.
+We are a Melbourne-based cyber security design and consulting company. We work with our clients to create tailored, effective and pragmatic solutions that allow them to navigate a complex world with confidence and clarity.
 
-Our company is based on the principle that the most effective security is strong and light. From this website to the systems that support our business, Graphene Security is built to be as robust and simple as possible.
+Our approach is based on the principle that security should be strong and light; strong enough to manage risk within acceptable limits, while placing no more demand on people and resources than necessary. We emphasise targeted, threat-based mitigations over sweeping framework-based approaches, and we are driven by a genuine desire to improve our clients' security.
 
 We are also committed to operating an ethical business. This extends to how we work, how we deliver, and who we choose to work with.
 
@@ -15,7 +15,7 @@ Our identity is shaped by our Mission, Personality, Promise and Values (with cre
 
 ## Mission
 
-Our mission is to strengthen organisations that make the world a better place.
+Our mission is to deliver effective, efficient and elegant security solutions to enable our clients to grow with confidence.
 
 ## Personality
 

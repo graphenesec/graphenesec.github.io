@@ -8,8 +8,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Become stronger and lighter.
+# Grow and thrive in an uncertain world.
 
-Graphene Security was founded to strengthen organisations that make the world a better place. 
+Graphene Security is a cyber security design and consulting company.
 
 We embrace the complexity of cyber security so you can focus on delivering your purpose with confidence.
