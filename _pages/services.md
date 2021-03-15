@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Grow and thrive in an uncertain world.
+# Become stronger and lighter.
 
 Our services are designed to help clients understand and manage their security risks with confidence.
 
