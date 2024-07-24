@@ -1,17 +1,17 @@
 [
   {
-    "title": "Ethical",
-    "description": "Built from the ground up as an ethical organisation.",
+    "title": "Threat-based",
+    "description": "Technical solutions based on helping large organisations manage real-world threats",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Bespoke",
-    "description": "Tailored cyber security solutions for your specific needs.",
+    "title": "Effective",
+    "description": "Mitigating your cyber security risks by addressing their technical causes",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Premium",
-    "description": "Uncompromised quality based on a tier-one consulting background.",
+    "title": "Integrated",
+    "description": "Environments that are hard to attack but easy to maintain and use",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

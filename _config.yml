@@ -13,14 +13,14 @@ logo:
   desktop_height: "70px"
   mobile_height: "50px"
 footer:
-  copyright_text: 'Copyright Graphene Security 2021. Liability limited by a scheme approved under Professional Standards Legislation.'
+  copyright_text: 'Copyright Graphene Security 2024. Liability limited by a scheme approved under Professional Standards Legislation.'
 
 seo:
   meta_og_title: "Graphene Security"
   meta_og_type: "website"
   meta_og_url: "https://graphenesecurity.com.au"
   meta_og_image: "https://github.com/graphenesec/graphenesec.github.io/blob/master/screenshots/gs_title_image.png?raw=true"
-  meta_og_description: "Graphene Security is a cyber security design and consulting company based in Melbourne, Australia."
+  meta_og_description: "Graphene Security designs and builds innovative and effective cyber security solutions."
   meta_twitter_card: "summary"
   meta_twitter_site: "@graphenesec"
   meta_twitter_creator: "@graphenesec"
