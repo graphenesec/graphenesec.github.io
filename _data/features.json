@@ -1,17 +1,17 @@
 [
   {
-    "title": "Threat-based",
-    "description": "Technical solutions based on helping large organisations manage real-world threats",
+    "title": "Assess",
+    "description": "Understand the environment, what needs to be defended, and how it is likely to be attacked",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Effective",
-    "description": "Mitigating your cyber security risks by addressing their technical causes",
+    "title": "Design",
+    "description": "Based on business objectives, technical strengths and weaknesses, and potential attack paths",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Integrated",
-    "description": "Environments that are hard to attack but easy to maintain and use",
+    "title": "Deploy",
+    "description": "Deliberately, responsibly, and according to an agreed plan",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
