@@ -2,15 +2,17 @@
 title: Services
 layout: services
 permalink: /services/
-intro_image: "images/illustrations/woman-climbing-mc.webp"
+intro_image: "images/illustrations/trip-flare.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Become stronger and lighter.
+# Attackers don't fight fair. Why should you?
 
-Our services are designed to help clients understand and manage their security risks with confidence.
+Cyber security can seem like the sort of thing where it just takes a single mistake for everything to go wrong.
 
-We take pride in our ability to explain complex issues simply, and to work with clients to develop light, strong and elegant solutions.
+That can be true. However, in the majority of cases, the organisation hasn't lost as soon as an attacker gains initial access; the impact is only realised once the attacker achieves their objectives, such as stealing your data and deploying ransomware.
 
-Whether you require incremental change or a complete overhaul of your cyber security, we are ready to help.
+In the time between those two points, you are in competition with the attacker: You win if you can discover them and remove their access - or if they decide to give up. They win if they are allowed to continue until it's too late.
+
+Our specialty is helping organisations of all sizes maximise their home ground advantage using our deep experience, best-in-class tools, and every dirty trick we can think of. Wherever you are in your cyber security maturity, whatever industry you're in, we want to give you the peace of mind that comes from knowing that your IT environment is no ordinary target.
