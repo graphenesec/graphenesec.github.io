@@ -2,14 +2,14 @@
 layout: home
 title: Graphene Security
 permalink: /
-description: Graphene Security designs and builds cyber security solutions that are strong, light, and effective.
+description: We make your environment hostile for attackers, while enabling and supporting users and defenders.
 intro_image: "images/illustrations/gs-background.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Strong and light protection against cyber threats
+# Your unfair advantage against cyber threats
 
-Graphene Security is a cyber security design and implementation company focused on solutions that provide substantial improvements to security with minimal cost, complexity, and impact to users.
+We design and deploy cyber security solutions that drastically improve your odds against cyber threats in days - not weeks, months, or years.
 
-We create as much difficulty as possible for those who shouldn't be in your environment, while keeping things simple for those who should.
+We aren't a replacement for a traditional cyber security program, and we don't try to do it all. We specialise in rapid and targeted solutions to make your environment incredibly hostile for attackers, while enabling and supporting users and defenders.

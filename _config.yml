@@ -10,8 +10,8 @@ homepage:
 logo:
   mobile: "images/logo/gs-logo-mobile.svg"
   desktop: "images/logo/gs-logo.svg"
-  desktop_height: "70px"
-  mobile_height: "50px"
+  desktop_height: "120px"
+  mobile_height: "60px"
 footer:
   copyright_text: 'Copyright Graphene Security 2024. Liability limited by a scheme approved under Professional Standards Legislation.'
 
@@ -20,7 +20,7 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://graphenesecurity.com.au"
   meta_og_image: "https://github.com/graphenesec/graphenesec.github.io/blob/master/screenshots/gs_title_image.png?raw=true"
-  meta_og_description: "Graphene Security designs and builds innovative and effective cyber security solutions."
+  meta_og_description: "Graphene Security delivers rapid and targeted solutions to make your environment hostile for attackers, while enabling and supporting your users and defenders."
   meta_twitter_card: "summary"
   meta_twitter_site: "@graphenesec"
   meta_twitter_creator: "@graphenesec"
