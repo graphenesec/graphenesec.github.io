@@ -15,16 +15,6 @@ Our role is to help you work through or around those challenges. We want you con
 
 Some clients engage us to solve a specific problem. Others want an integrated solution to address a broader range of security risks. Either way, our focus is on delivering clear improvements quickly – in ways that are sustainable, manageable, and aligned to how your business operates.
 
-Common areas of focus include:
-
-<ul>
-  <li>Reducing exposure from legacy or unmanaged systems</li>
-  <li>Improving visibility and early detection across key assets</li>
-  <li>Implementing high-security remote access solutions</li>
-  <li>Hardening identity and access management – particularly in Active Directory</li>
-  <li>Increasing the reliability of data recovery and business continuity arrangements</li>
-</ul>
-
-We use a small, proven set of tools that we know and trust – selected for their real-world effectiveness, flexibility, and ability to deliver results without unnecessary complexity.
+We use a selective, proven set of tools that we know and trust – selected for their real-world effectiveness, flexibility, and ability to deliver results without unnecessary complexity.
 
 For organisations unsure where to begin, we offer a focused initial assessment. It’s a practical way to understand where things stand – and to start making progress, even if the environment isn’t perfect.
