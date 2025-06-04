@@ -1,17 +1,17 @@
 [
   {
     "title": "Assess",
-    "description": "Understand the environment, what needs to be defended, and how it is likely to be attacked",
+    "description": "Understand the environment, identify what matters most, and evaluate how real attackers are likely to target it.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Design",
-    "description": "Based on business objectives, technical strengths and weaknesses, and potential attack paths",
+    "description": "Shape practical, risk-led solutions based on business needs, technical realities, and the ways attackers are most likely to succeed.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Deploy",
-    "description": "Deliberately, responsibly, and according to an agreed plan",
+    "description": "Implement cleanly and with care – using proven tools and approaches, and always according to an agreed plan.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
