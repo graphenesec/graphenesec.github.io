@@ -7,12 +7,22 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Attackers don't fight fair. Why should you?
+# Effective security for real-world conditions
 
-Cyber security can seem like the sort of thing where it just takes a single mistake for everything to go wrong.
+We specialise in helping organisations manage cyber risk amid the realities of most IT environments, where legacy systems, incomplete remediation work, and operational constraints are often part of the picture.
 
-That can be true. However, in the majority of cases, the organisation hasn't lost as soon as an attacker gains initial access; the impact is only realised once the attacker achieves their objectives, such as stealing your data and deploying ransomware.
+Our role is to help you work through or around those challenges. We want you confidently managing your risks as soon as possible, rather than waiting for an elusive future state of security. We achieve this using thoughtful design, technical expertise, and a deep understanding of what works in practice.
 
-In the time between those two points, you are in competition with the attacker: You win if you can discover them and remove their access - or if they decide to give up. They win if they are allowed to continue until it's too late.
+Some clients engage us to solve a specific problem. Others want an integrated solution to address a broader range of security risks. Either way, our focus is on delivering clear improvements quickly – in ways that are sustainable, manageable, and aligned to how your business operates.
 
-Our specialty is helping organisations of all sizes maximise their home ground advantage using our deep experience, best-in-class tools, and every dirty trick we can think of. Wherever you are in your cyber security maturity, whatever industry you're in, we want to give you the peace of mind that comes from knowing that your IT environment is no ordinary target.
+Common areas of focus include:
+
+- Reducing exposure from legacy or unmanaged systems  
+- Improving visibility and early detection across key assets  
+- Implementing high-security remote access solutions  
+- Hardening identity and access management – particularly in Active Directory  
+- Increasing the reliability of data recovery and business continuity arrangements
+
+We use a small, proven set of tools that we know and trust – selected for their real-world effectiveness, flexibility, and ability to deliver results without unnecessary complexity.
+
+For organisations unsure where to begin, we offer a focused initial assessment. It’s a practical way to understand where things stand – and to start making progress, even if the environment isn’t perfect.

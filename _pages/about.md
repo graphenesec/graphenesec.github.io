@@ -1,14 +1,18 @@
 ---
 title: 'About Us'
-date: 2024-11-06 T01:01:34+11:00
+date: 2025-04-06 T01:01:34+11:00
 layout: 'page'
 permalink: /about/
 ---
 
-Graphene Security was founded in 2020 as a consultancy focused on cyber security solutions that are strong and light. Our design philosophy emerged from extensive experience working with complexity. From solving difficult cyber security problems for some of Australia's largest organisations, to the practical realities of working to attack and defend them, we saw the great value of simplicity, visibility, and mitigation design focused on real-world threats.
+### Security, thoughtfully designed for the real world.
 
-From 2024, we have evolved into a design and implementation company focused on putting these principles into practice. Our multidisciplinary capability has 'been there, done that' in consulting, assessing threat, responding to incidents, simulating advanced attackers, and building solutions for a huge range of organisations. We know what cyber security looks like in the real world, and we know many organisations are having a harder time with it than outsiders would think.
+Graphene Security was created to solve a problem we kept seeing: organisations carrying excessive risk because their IT systems were not prepared to withstand real-world cyber attacks. Too often, compliance reports created false confidence, remediation efforts left critical gaps, and technologies in place weren’t fit for purpose. In many cases, the people ultimately accountable for the risks this created weren’t aware of how exposed they really were.
 
-We are here to help, and we see the most potential in acting as a specialised 'force multiplier' to compliment existing capabilities and providers. By using our knowledge and experience, alongside best-in-class tools and technologies, our focus is on creating environments that are a nightmare for attackers, while making life easier for users and defenders.
+At the same time, even informed and proactive risk owners are often forced to remain unacceptably exposed due to complex technical, operational, and organisational challenges.
 
-If this all sounds interesting, we'd love to hear from you.
+Having worked across offensive and defensive security for some of Australia’s largest and most complex organisations, and with first-hand experience managing cyber risk under pressure, we saw the potential in a more focused and proactive approach.
+
+We built Graphene Security to provide just that: practical, thoughtfully designed security that works within the constraints of real environments – and delivers timely and substantial risk mitigation.
+
+We focus on what matters most, using a curated set of tools chosen for their real-world effectiveness, flexibility, and ease of operation. Our goal is to help risk owners take control of their exposure, quickly and sustainably, without adding unnecessary complexity or delay.
