@@ -1,8 +1,8 @@
 ---
-title: "Threat-based assessment"
-date: 2024-06-11T12:33:46+11:00
+title: "Focused technical remediation"
+date: 2025-06-04T12:33:46+11:00
 featured: true
-weight: 1
+weight: 2
 ---
 
-Understand your environment from the perspective of your most likely threats.
+We work with you to address high-risk issues directly, using targeted, practical solutions that reduce exposure without waiting on broader infrastructure upgrades.
