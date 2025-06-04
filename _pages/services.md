@@ -17,11 +17,13 @@ Some clients engage us to solve a specific problem. Others want an integrated so
 
 Common areas of focus include:
 
-- Reducing exposure from legacy or unmanaged systems  
-- Improving visibility and early detection across key assets  
-- Implementing high-security remote access solutions  
-- Hardening identity and access management – particularly in Active Directory  
-- Increasing the reliability of data recovery and business continuity arrangements
+<ul>
+  <li>Reducing exposure from legacy or unmanaged systems</li>
+  <li>Improving visibility and early detection across key assets</li>
+  <li>Implementing high-security remote access solutions</li>
+  <li>Hardening identity and access management – particularly in Active Directory</li>
+  <li>Increasing the reliability of data recovery and business continuity arrangements</li>
+</ul>
 
 We use a small, proven set of tools that we know and trust – selected for their real-world effectiveness, flexibility, and ability to deliver results without unnecessary complexity.
 
