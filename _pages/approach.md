@@ -4,9 +4,6 @@ date: 2025-04-06 T01:01:34+11:00
 layout: 'page'
 permalink: /about/
 ---
-
-## Approach
-
 ### Thoughtful design. Practical implementation. Real progress.
 
 We approach cyber security as a design and delivery challenge – not just a matter of policies or checklists. Our role is to understand your environment, identify the risks that matter most, and put the right solutions in place.
