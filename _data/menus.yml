@@ -1,22 +1,22 @@
 main:
   - name: "Services"
     url: "/services/"
-    weight: 1
+    weight: 2
   - name: "Approach"
-     url: "/approach/"
-     weight: 2
+    url: "/approach/"
+    weight: 3
   - name: "About"
     url: "/about/"
-    weight: 3
-# - name: "Values"
-#   url: "/values/"
-#   weight: 5   
-#  - name: "Blog"
-#    url: "/blog/"
-#    weight: 6
+    weight: 4
+  # - name: "Values"
+  #   url: "/values/"
+  #   weight: 5
+  # - name: "Blog"
+  #   url: "/blog/"
+  #   weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 4
+    weight: 7
 
 footer:
   - name: "Home"
