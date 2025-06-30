@@ -2,7 +2,7 @@
 title: 'Approach'
 date: 2025-04-06 T01:01:34+11:00
 layout: 'page'
-permalink: /about/
+permalink: /approach/
 ---
 ### Thoughtful design. Practical implementation. Real progress.
 
