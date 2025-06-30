@@ -10,8 +10,6 @@ intro_image_hide_on_mobile: true
 
 # Your risks, under control
 
-Cyber security risk is difficult to get a clear handle on. Threats constantly evolve, advice isn’t always consistent – and even with a plan in place, achieving real risk reduction often takes longer than it should.
+We specialise in bespoke cyber security solutions that mitigate cyber security risk quickly and effectively.
 
-We help you take control. Drawing on practical experience, we focus on what matters most and we address your risks directly, using good design and a proven set of innovative security tools.
-
-We don’t just write reports. We solve problems – intelligently, effectively, and with care.
+Drawing from decades of security and risk management experience with some of the largest organisations in the world, we understand how risk fits into your business. We also have the technical capability to mitigate risks directly, using good design and a proven set of innovative security tools.
