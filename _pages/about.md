@@ -7,12 +7,15 @@ permalink: /about/
 
 ### Security, thoughtfully designed for the real world.
 
-Graphene Security was created to solve a problem we kept seeing: organisations carrying excessive risk because their IT systems were not prepared to withstand real-world cyber attacks. Too often, compliance reports created false confidence, remediation efforts left critical gaps, and technologies in place weren’t fit for purpose. In many cases, the people ultimately accountable for the risks this created weren’t aware of how exposed they really were.
+Founded in 2020, we are a small and specialised company built to solve problems with greater agility, creativity, and value for money, than the large consultancies we came from. While consulting services remain a strong capability, our primary focus is helping clients take the next step and fix problems directly. Whether working alongside an in-house team, partnered with another third party, or operating independently, we take a proactive yet pragmatic approach to getting things done.
 
-At the same time, even informed and proactive risk owners are often forced to remain unacceptably exposed due to complex technical, operational, and organisational challenges.
+Based in Melbourne, Australia, and typically operating remotely, we work primarily with mid-sized companies with complex technology environments (particularly those including on-premises networks) that can derive the most benefit from our services and capabilities. Manufacturing and financial services companies are focus areas, and we also have strong experience in the aviation and maritime sectors, in addition to other critical infrastructure environments.
 
-Having worked across offensive and defensive security for some of Australia’s largest and most complex organisations, and with first-hand experience managing cyber risk under pressure, we saw the potential in a more focused and proactive approach.
+In addition to more commonly-known providers such as Microsoft, we partner with a small number of innovative but proven tech companies. These include:
 
-We built Graphene Security to provide just that: practical, thoughtfully designed security that works within the constraints of real environments – and delivers timely and substantial risk mitigation.
+- [Thinkst](https://canary.tools), industry leaders and creators of Canary, a simple, reliable, and highly effective means of detecting intrusions and unauthorised activity - including insider threats
+- [Knocknoc](https://knocknoc.io), an excellent Australian startup with a clever yet robust solution to securing remote access and other challenging network connections
+- [Airlock Digital](https://www.airlockdigital.com), a proven solution for locking down servers and workstations quickly and effectively, while also supporting high-maturity tech environments
+- [Netwrix](https://www.netwrix.com), who acquired a range of useful tools, particularly for managing unstructured data and for quickly identifying issues with complex Active Directory environments
 
-We focus on what matters most, using a curated set of tools chosen for their real-world effectiveness, flexibility, and ease of operation. Our goal is to help risk owners take control of their exposure, quickly and sustainably, without adding unnecessary complexity or delay.
+Tools like these, alongside our experience and creativity, form the basis of how we mitigate risks quickly and effectively.
